@@ -1,0 +1,21 @@
+2024-12-08 06:10:20,440 - INFO - Scheduler started
+2024-12-08 06:10:20,440 - INFO - Starting daily coupon scraping...
+2024-12-08 06:10:20,448 - INFO - ====== WebDriver manager ======
+2024-12-08 06:10:21,140 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 06:10:21,202 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 06:10:21,267 - INFO - Driver [C:\Users\Yohann\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver.exe] found in cache
+2024-12-08 06:10:22,336 - ERROR - Error during scraping: 'CouponScraper' object has no attribute 'run'
+2024-12-08 06:11:44,887 - INFO - Scheduler started
+2024-12-08 06:11:44,888 - INFO - Starting daily coupon scraping...
+2024-12-08 06:11:44,895 - INFO - ====== WebDriver manager ======
+2024-12-08 06:11:45,571 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 06:11:45,638 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 06:11:45,700 - INFO - Driver [C:\Users\Yohann\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver.exe] found in cache
+2024-12-08 06:11:46,765 - ERROR - Error during scraping: 'CouponScraper' object has no attribute 'run'
+2024-12-08 06:13:03,096 - INFO - Scheduler started
+2024-12-08 06:13:03,096 - INFO - Starting daily coupon scraping...
+2024-12-08 06:13:03,104 - INFO - ====== WebDriver manager ======
+2024-12-08 06:13:03,758 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 06:13:03,956 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 06:13:04,019 - INFO - Driver [C:\Users\Yohann\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver.exe] found in cache
+2024-12-08 06:13:05,087 - ERROR - Error during scraping: 'CouponScraper' object has no attribute 'run'
